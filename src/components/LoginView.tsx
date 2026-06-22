@@ -142,7 +142,7 @@ export default function LoginView({ onLogin, presetUsers }: LoginViewProps) {
       </div>
 
       <p className="mt-8 text-xs font-semibold text-slate-500">
-        © 2024 Padre Hurtado Taller Mecánico — v2.4.0
+        © 2026 Padre Hurtado Taller Mecánico — v1.4
       </p>
     </div>
   );
